@@ -1,0 +1,6 @@
+C:\Users\Express Pantry\source\repos\Consolecafe\Repository\bin\Debug\Repository.dll
+C:\Users\Express Pantry\source\repos\Consolecafe\Repository\bin\Debug\Repository.pdb
+C:\Users\Express Pantry\source\repos\Consolecafe\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\Express Pantry\source\repos\Consolecafe\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Express Pantry\source\repos\Consolecafe\Repository\obj\Debug\Repository.dll
+C:\Users\Express Pantry\source\repos\Consolecafe\Repository\obj\Debug\Repository.pdb
